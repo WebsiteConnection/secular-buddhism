@@ -44,7 +44,7 @@ export const SITE_CONTENT: SiteContent = {
     },
     {
       name: "3. Doug’s Dharma",
-      summary: "Extensive video analysis of Buddhist texts from a secular, historical, and academic perspective. Some of Doug's videos are focused on Secular Buddhism, while others examine the traditional teachings, as well as their connection with philosophical thought.",
+      summary: "Extensive video analysis of Buddhist texts from a secular, historical, and academic perspective. Some of Doug's videos are focused on Secular Buddhism, while others examine the traditional teachings, as well as their relation to Western philosophy.",
       image: "/doug.png",
       links: [
         { text: "Website", href: "https://www.dougsdharma.com/" },
