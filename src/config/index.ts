@@ -9,6 +9,7 @@ export const SITE_CONFIG: SiteConfig = {
   navLinks: [
     { text: "The Hub", href: "#sites" },
     { text: "About", href: "#about" },
+    { text: "日本語", href: "https://sezoku-bukkyo.vercel.app" },
   ],
   socialLinks: [],
   socialImage: "/social-preview.png",
