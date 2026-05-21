@@ -25,7 +25,7 @@ export const SITE_CONTENT: SiteContent = {
   },
   sites: [
     {
-      name: "1. The Secular Buddhist Network",
+      name: "The Secular Buddhist Network",
       summary: "Leading the contemporary shift toward a secular Dharma, as inspired by the foundational works of Stephen Batchelor and Winton Higgins. Their groups span the Western world.",
       image: "/sbn.png", 
       links: [
@@ -34,7 +34,7 @@ export const SITE_CONTENT: SiteContent = {
       ]
     },
     {
-      name: "2. Naturalistic Buddhism",
+      name: "Naturalistic Buddhism",
       summary: "A practice based on a contemporary, carefully-reasoned interpretation of the Buddha's early teachings by Gil Fronsdal, with links to his media presentations and other services at the Center.",
       image: "/gil.png",
       links: [
@@ -43,7 +43,7 @@ export const SITE_CONTENT: SiteContent = {
       ]
     },
     {
-      name: "3. Doug’s Dharma",
+      name: "Doug’s Dharma",
       summary: "Extensive video analysis of Buddhist texts from a secular, historical, and academic perspective. Some of Doug's videos are focused on Secular Buddhism, while others examine the traditional teachings, as well as their relation to Western philosophy.",
       image: "/doug.png",
       links: [
@@ -52,7 +52,7 @@ export const SITE_CONTENT: SiteContent = {
       ]
     },
     {
-      name: "4. Noah Rasheta",
+      name: "Noah Rasheta",
       summary: "Host of the Secular Buddhism Podcast, and developer of a repository filled with Buddhist information resources accessible through AI-powered chat.",
       image: "/noah.png",
       links: [
@@ -61,7 +61,7 @@ export const SITE_CONTENT: SiteContent = {
       ]
     },
     {
-      name: "5. Secular Buddhist Tradition (SBT)",
+      name: "Secular Buddhist Tradition (SBT)",
       summary: "Venerable Tenzin Tarpa's network of meditation centers focused on moving away from religious authority, dogma, and ritual toward ethics and understanding.",
       image: "/sbt.png",
       links: [
@@ -70,7 +70,7 @@ export const SITE_CONTENT: SiteContent = {
       ]
     },
     {
-      name: "6. Navayana Buddhism",
+      name: "Navayana Buddhism",
       summary: "Dr. B.R. Ambedkar’s 'New Vehicle'—a historical precedent that reinterprets the Buddha's teachings as an ethos compatible with science and well-suited to support a civic culture aligned with egalitarian reform.",
       image: "/ambedkar.jpg",
       links: [
@@ -80,7 +80,7 @@ export const SITE_CONTENT: SiteContent = {
       ]
     },
     {
-      name: "7. Secular Buddhism in the Lotus Tradition",
+      name: "Secular Buddhism in the Lotus Tradition",
       summary: "Reinterprets the Lotus Sūtra's climactic revelation of an Eternal Buddha as a universal ethic sourced in immanence, and introduces prayers for a corresponding secular practice.",
       image: "/lotus.png",
       links: [
