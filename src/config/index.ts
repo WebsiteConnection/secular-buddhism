@@ -57,7 +57,7 @@ export const SITE_CONTENT: SiteContent = {
       image: "/noah.png",
       links: [
         { text: "8-Fold Path", href: "https://eightfoldpath.com" },
-        { text: "Podcast", href: "https://secularbuddhism.com/" }
+        { text: "Podcast", href: "https://eightfoldpath.com/sbp" }
       ]
     },
     {
