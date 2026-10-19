@@ -93,6 +93,7 @@ export const SITE_CONTENT: SiteContent = {
       summary: "",
       image: "/book.png",
       links: [
+        { text: "Wikipedia article on Secular Buddhism", href: "https://en.wikipedia.org/wiki/Secular_Buddhism"},
         { text: "Stephen Batchelor's article: A Secular Buddhism", href: "https://www.globalbuddhism.org/article/view/1189/1024"},
         { text: "The Coming of Secular Buddhism by Winton Higgins", href: "https://www.globalbuddhism.org/article/view/1188/1023" },
         { text: "Gil Fronsdal's article entitled Natural Buddhism", href: "https://www.insightmeditationcenter.org/books-articles/natural-buddhism/" },
